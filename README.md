@@ -1,1 +1,1 @@
-# ayudantia-algoco
+# Repositorio Ayudantías
